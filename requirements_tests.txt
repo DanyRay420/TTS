@@ -19,3 +19,5 @@ soundfile
 nose==1.3.7
 cardboardlint==1.3.0
 cython
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
