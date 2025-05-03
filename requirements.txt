@@ -23,3 +23,4 @@ gdown
 umap-learn
 cython
 pyyaml
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
